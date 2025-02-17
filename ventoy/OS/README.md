@@ -7,4 +7,4 @@
 | ISO 💿| [EndeavourOS](https://endeavouros.com/)  |
 | ISO 💿| [Windows 10](https://windows-10.en.uptodown.com/windows/download)  |
 | ISO 💿| [pop-OS](https://pop.system76.com/)  |
-| ISO 💿| [Windows 11 official](https://www.hirensbootcd.org/download/](https://www.microsoft.com/en-in/software-download/windows11)  |
+| ISO 💿| [Windows 11 official](https://www.microsoft.com/en-us/software-download/windows11)  |
