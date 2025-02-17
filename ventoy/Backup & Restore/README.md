@@ -1,5 +1,5 @@
 ## Dependencies
 
-| Type         | Name/Link    | File name    |
-|-------------------|--------------|------------|
-| ISO 💿| [rescuezilla](https://github.com/hyprwm/Hyprland)  | rescuezilla-2.5.1-64bit.nobile.iso  |
+| Type         | Name/Link    |
+|-------------------|--------------|
+| ISO 💿| [rescuezilla]([https://github.com/hyprwm/Hyprland](https://rescuezilla.com/download))  |
