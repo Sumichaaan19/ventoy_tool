@@ -1,3 +1,5 @@
-these are the names of iso
+## Dependencies
 
-HBCD_PE_X64.iso
+| Type         | Name/Link    |
+|-------------------|--------------|
+| ISO 💿| [Hiren's BootCD PE](https://www.hirensbootcd.org/download/)  |
