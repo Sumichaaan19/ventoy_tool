@@ -1,8 +1,10 @@
-these are the names of iso
+## Dependencies
 
-archlinux-2024.12.01-x86_64.iso           
-WIN11.PRO.24H2.U10.X64.(WPE).ISO
-EndeavourOS_Endeavour_neo-2024.09.22.iso
-Windows 10.iso
-pop-os_22.04_amd64_intel_49.iso           
-Windows11_InsiderPreview_Client_x64_en-us_26100.1150.iso
+| Type         | Name/Link    |
+|-------------------|--------------|
+| ISO 💿| [Arch Linux](https://archlinux.org/download/)  |
+| ISO 💿| [WINDOWS 11 ghost spectre](https://ghostclouds.xyz/wp/w11-22h2-22621/)  |
+| ISO 💿| [EndeavourOS](https://endeavouros.com/)  |
+| ISO 💿| [Windows 10](https://windows-10.en.uptodown.com/windows/download)  |
+| ISO 💿| [pop-OS](https://pop.system76.com/)  |
+| ISO 💿| [Windows 11 official]([https://www.hirensbootcd.org/download/](https://www.microsoft.com/en-in/software-download/windows11))  |
