@@ -1,0 +1,174 @@
+{
+    "control": [
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_FILT_DOT_UNDERSCORE_FILE": "1" }        
+    ],
+    
+    "theme": {
+        "file": "/ventoy/theme/Cappie/theme.txt",
+    "gfxmode": "max",        
+        "display_mode": "GUI",
+        "ventoy_left": "5%",
+        "ventoy_top": "95%",
+        "ventoy_color": "#0000ff"
+    },
+    
+    
+    "menu_class": [   
+        {
+            "dir": "/ventoy/LIVE OS",
+            "class": "boot"
+        },  
+
+        {
+            "dir": "/ventoy/OS",
+            "class": "os"
+        },     
+           
+        {
+            "key": "deepin",
+            "class": "deepin"
+        },
+    
+        {
+            "key": "Windows11_InsiderPreview_Client_x64_en-us_26100.1150",
+            "class": "windows11"
+        },
+
+        {
+            "key": "HBCD_PE_x64",
+            "class": "windows"
+        },
+        {
+            "dir": "/ventoy",
+            "class": "granny"
+        },
+        {
+            "key": "rescuezilla-2.5.1-64bit.noble",
+            "class": "rescuezilla"
+        },
+
+        {
+            "dir": "/ventoy/Backup & Restore",
+            "class": "backup"
+        },
+        {
+            "key": "archlinux-2024.12.01-x86_64",
+            "class": "archlinux"
+        },
+        {
+            "key": "tiny11 23H2 x64",
+            "class": "windows11"
+        },
+        {
+            "key": "Windows 10",
+            "class": "windows10"
+        },
+        {
+            "key": "EndeavourOS_Endeavour_neo-2024.09.22",
+            "class": "EndeavourOS-icon"
+        },
+        {
+            "key": "WIN11.PRO.24H2.U10.X64.(WPE)",
+            "class": "windows11"
+        },
+  	{
+            "key": "pop-os_22.04_amd64_intel_49",
+            "class": "pop-os.1024x1024"
+        }
+
+        
+    ],
+    
+    "menu_alias": [
+        {
+            "image": "/ventoy/OS/Windows11_InsiderPreview_Client_x64_en-us_26100.1150.iso",
+            "alias": "Windows 11"
+        },
+        {
+            "image": "/ventoy/LIVE OS/HBCD_PE_x64.iso",
+            "alias": "Hiren's BootCD PE (windows based)"
+        },
+        {
+            "image": "/ventoy/Backup & Restore/rescuezilla-2.5.1-64bit.noble.iso",
+            "alias": "Rescuezilla"
+        },
+        {
+            "dir": "/ventoy/OS",
+            "alias": "Operating System"
+        },
+        {
+            "dir": "/ventoy/LIVE OS",
+            "alias": "Live Operating System"
+        },
+        {
+            "image": "/ventoy/OS/archlinux-2024.12.01-x86_64.iso",
+            "alias": "Arch Linux"
+        },
+        {
+            "image": "/ventoy/OS/tiny11 23H2 x64.iso",
+            "alias": "Tiny 11"
+        },
+        {
+            "image": "/ventoy/OS/Windows 10.iso",
+            "alias": "Windows 10"
+        },
+        {
+            "image": "/ventoy/OS/EndeavourOS_Endeavour_neo-2024.09.22.iso",
+            "alias": "Endeavour OS"
+        },
+        {
+            "image": "/ventoy/OS/WIN11.PRO.24H2.U10.X64.(WPE).ISO",
+            "alias": "Ghost Spectere WIN11"
+        },
+        {
+            "dir": "/ventoy",
+            "alias": "My Tools"
+        }
+
+
+    ],
+
+
+    
+ "menu_tip":{
+      "left": "5%",
+        "top": "74%",
+        "color": "#ffffff",
+        "tips":[
+            {
+                "dir": "/ventoy/OS",
+                "tip": "Operating System Installer."
+            },
+            {
+                "dir": "/ventoy/LIVE OS",
+                "tip": "You can use OS without installing."
+            },
+            {
+                "dir": "/ventoy",
+                "tip": "Welcome! Please Enter to continue."
+            },
+            {
+                "dir": "/ventoy/Backup & Restore",
+                "tip": "Backup and restoration tools."
+            },
+            {
+                "dir": "/ventoy/LIVE OS/HBCD_PE_x64.iso",
+                "tip": "It has a lot of useful tool for troubleshooting."
+            },
+            {
+                "dir": "/ventoy/LIVE OS/Hiren's BootCD PE (windows based)",
+                "tip": "It has a lot of useful tool for troubleshooting."
+            },
+            {
+                "dir": "Hiren's BootCD PE (windows based)",
+                "tip": "It has a lot of useful tool for troubleshooting."
+            }
+
+    ]
+
+    
+}
+
+
+}

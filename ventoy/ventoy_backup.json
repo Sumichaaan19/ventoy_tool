@@ -1,0 +1,94 @@
+{
+    "control": [
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_FILT_DOT_UNDERSCORE_FILE": "1" }        
+    ],
+    
+    "theme": {
+       	"file": "/ventoy/theme/alya/theme.txt",
+	"gfxmode": "1920x1080",        
+        "display_mode": "GUI",
+        "ventoy_left": "5%",
+        "ventoy_top": "95%",
+        "ventoy_color": "#0000ff"
+    },
+    
+    
+    "menu_class": [   
+        {
+            "dir": "/ventoy/LIVE OS",
+            "class": "boot"
+        },  
+
+        {
+            "dir": "/ventoy/OS",
+            "class": "os"
+        },     
+           
+        {
+            "key": "deepin",
+            "class": "deepin"
+        },
+    
+	    {
+            "key": "Windows11_InsiderPreview_Client_x64_en-us_26100.1150",
+            "class": "windows11"
+        },
+
+	    {
+            "key": "HBCD_PE_x64",
+            "class": "windows"
+        },
+        {
+            "dir": "/ventoy",
+            "class": "granny"
+        }
+
+
+    ],
+    
+    "menu_alias": [
+        {
+            "image": "/ventoy/OS/Windows11_InsiderPreview_Client_x64_en-us_26100.1150.iso",
+            "alias": "Windows 11"
+        },
+        {
+            "image": "/ventoy/LIVE OS/HBCD_PE_x64.iso",
+            "alias": "Hiren's BootCD PE (windows based)"
+        },
+        {
+            "dir": "/ventoy/OS",
+            "alias": "Operating System"
+        },
+        {
+            "dir": "/ventoy/LIVE OS",
+            "alias": "Live Operating System"
+        }
+    ],
+
+
+    
+ "menu_tip":{
+      "left": "28%",
+        "top": "73%",
+        "color": "#00ff1e",
+        "tips":[
+            {
+                "dir": "/ventoy/OS",
+                "tip": "Operating System Installer."
+            },
+            {
+                "dir": "/ventoy/LIVE OS",
+                "tip": "You can use OS without installing."
+            },
+            {
+                "dir": "/ventoy",
+                "tip": "Welcome! Please Enter to continue."
+            }
+
+
+    ]
+
+    
+}
+}
